@@ -1,7 +1,9 @@
 {
-    "books":{
+    "books":[
+        {
         "id":1,
         "title":"Harry poter",
         "author":"Harry"
-    }
+       }
+   ]
 }
